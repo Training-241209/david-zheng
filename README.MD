@@ -1,5 +1,12 @@
 # How to create a .NET project
 
+<div id="header" align="center">
+
+  <img src="https://tse3.mm.bing.net/th?id=OIP.MWRZrdCnIzla6fPUxEzM4QHaEK&pid=Api&P=0&h=220" width="800" height="400">
+
+</div>
+
+
 `dotnet new console -n PROJECT_NAME --use-program-main`
 
 - console can be subsituted with:
