@@ -1,0 +1,25 @@
+# Ignore build outputs
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET temporary files
+*.dbmdl
+*.bak
+*.log
