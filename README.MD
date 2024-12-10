@@ -17,3 +17,10 @@
 
 `--use-program-main`
 - This flag is used to generate a Main method
+
+`dotnet run`
+- Use this run the program
+
+# Gitignore
+- When creating .NET projects add everything in the obj folder and bin in the gitignore
+
