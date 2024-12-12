@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://i.ytimg.com/vi/tHSstkiVbc8/maxresdefault.jpg" width="800" height="400">
+  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683612933716/61ad7805-e527-4dd3-b4a6-3532172c6c32.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" width="800" height="400">
 
 </div>
 
