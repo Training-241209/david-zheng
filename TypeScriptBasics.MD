@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
 
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*VTW6T-7KkQHPjf4mtfQ0Zg.png" width="800" height="400">
+  <img src="https://i.ytimg.com/vi/tHSstkiVbc8/maxresdefault.jpg" width="800" height="400">
 
 </div>
 
@@ -32,7 +32,7 @@ In this case, a type error will be thrown. **Order matters** in TypeScript.
 
 ## Best Practices
 
-A good practice is to make your tuple `readonly`. Using the readonly keyword, you can prevent accidentally changing your tuple.
+A good practice is to make your tuple `readonly`. Using the `readonly` keyword, you can prevent accidentally changing your tuple.
 
 Example:
 
