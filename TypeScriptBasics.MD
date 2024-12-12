@@ -9,13 +9,13 @@
 ## Definition
 Tuple is a typed array with a predefined length and types for each index. Tuples allow each element in the array to be known type of value.
 
-## How to define a tuple
+## How to define a tuple?
 
 `let ourTuple: [number, boolean, string];`
 
 In this case, our tuple is an array with the first index as a number, second as a boolean, and third as a string.
 
-## How to initialize a tuple
+## How to initialize a tuple?
 
 Using the example above,
 
@@ -55,19 +55,19 @@ Instead add the `readonly` keyword to prevent modification:
 // define our readonly tuple
 const ourReadonlyTuple: readonly [number, boolean, string] = [5, true, 'TypeScript is Awesome'];
 
-// throws error as it is readonly.
+// throws error as it is readonly
 ourReadonlyTuple.push('JavaScript is better');
 ```
 
 ## Tuple Destructuring
 
-Since tuples are arrays we can destructure them
+Since tuples are arrays we can destructure them.
 
 ```
 const ourReadonlyTuple: readonly [number, boolean, string] = [5, true, 'TypeScript is Awesome'];
 const [firstIndex, secondIndex, thirdIndex] = ourReadonlyTuple;
 ```
-In this case, firstIndex = 5, secondIndex = true, and thirdIndex = 'TypeScript is Awesome'
+In this case, firstIndex = 5, secondIndex = true, and thirdIndex = 'TypeScript is Awesome'.
 
 
 ## Named Tuples
